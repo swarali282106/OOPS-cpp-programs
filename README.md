@@ -9,9 +9,8 @@ Division: C
 Course Name: Object Oriented Programming with C++
 
 ## Units
-
-- Unit I
-- Unit II
+ Unit I
+ Unit II
 
 ## Description
 
